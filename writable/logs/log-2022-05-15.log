@@ -1,0 +1,1845 @@
+CRITICAL - 2022-05-15 10:10:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:10:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:10:39 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:10:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:11:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:18:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:19:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:32:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:37:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:54:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:55:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 10:57:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:00:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:15:06 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\spark(45): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:25:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:25:11 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:25:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:25:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:28:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:28:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:36:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:37:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:53:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 04:57:35 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 04:57:37 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 04:57:40 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 04:58:11 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:02:12 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:02:14 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:02:15 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:03:22 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 05:03:29 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 05:03:30 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 05:03:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 05:05:25 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:07:15 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 12:07:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\login\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\login\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 05:08:04 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:09:40 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:09:41 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 05:09:42 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:08:33 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:13:49 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:20:43 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:43:30 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:43:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:43:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:43:32 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:43:50 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:45:19 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:29 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:30 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:30 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:30 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:31 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:32 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:32 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:32 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:55 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:46:58 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 07:49:18 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:00:10 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:00:12 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:00:41 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:00:42 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:00:43 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:03:18 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:04:59 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:13:37 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:13:38 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:13:38 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:13:45 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:16:25 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:19:08 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:29:48 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:46:37 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:47:20 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:47:21 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 08:58:12 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:55 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:57 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:58 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:59 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:59 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:00:59 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:01:00 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:01:00 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:01:01 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:09:57 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:11:36 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:11:47 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:37:54 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:38:15 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:38:46 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:38:47 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:38:47 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:38:47 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:38:48 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:39:08 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:39:12 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:39:32 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:41:28 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('login', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:41:45 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:43:00 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:43:03 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:47:08 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:47:12 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 09:47:20 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('/', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-05-15 09:48:17 --> Class 'Config\CodeIgniter\Filters\DebugToolbar' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(436): CodeIgniter\Filters\Filters->run('register', 'after')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+ERROR - 2022-05-15 10:08:38 --> Table 'login_db.users' doesn't exist
+CRITICAL - 2022-05-15 10:08:38 --> Table 'login_db.users' doesn't exist
+#0 C:\xampp\htdocs\login\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\login\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\login\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\login\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\login\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\login\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('rafikids32@gmai...', 'user_email', Array, NULL)
+#6 C:\xampp\htdocs\login\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'rafikids32@gmai...', Array, Array)
+#7 C:\xampp\htdocs\login\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\login\app\Controllers\Register.php(28): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Register->save()
+#10 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#11 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2022-05-15 10:18:58 --> Class 'Config\Auth' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-05-15 11:16:13 --> Class 'App\Controllers\ProductModel' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#2 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-15 11:17:58 --> Class 'App\Controllers\ProductModel' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#2 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-15 11:18:22 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:18:28 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:26:35 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:26:36 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:27:10 --> Class 'App\Controllers\ProductModel' not found
+#0 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#2 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-15 11:27:31 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:31:24 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:20 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:21 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:21 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:22 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:22 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:22 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:23 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:35:23 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:36:08 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:36:10 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:36:10 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:36:11 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:36:28 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:37:55 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:37:55 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:37:55 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:37:56 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:21 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:23 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:23 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:23 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:24 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:38:24 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:39:46 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:39:48 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:39:48 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:39:48 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:39:48 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:40:06 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:07 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:07 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:08 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:37 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:38 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:38 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:39 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:39 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:40:39 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:05 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:42:10 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:42:39 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:40 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:40 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:41 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:41 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:42:41 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:28 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:29 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:29 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:29 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:44 --> Trying to get property 'product_id' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:59 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:45:59 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:46:00 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:46:00 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:46:20 --> syntax error, unexpected 'product_name' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:46:22 --> syntax error, unexpected 'product_name' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:46:22 --> syntax error, unexpected 'product_name' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:46:23 --> syntax error, unexpected 'product_name' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:46:46 --> Trying to get property 'category_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:27 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:28 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:28 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:28 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:28 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:47:29 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:51:12 --> syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#2 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-15 11:56:18 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:19 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:20 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:20 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:32 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:33 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:33 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:33 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:37 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:37 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 11:56:38 --> Trying to get property 'product_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 12:06:46 --> Undefined variable: category
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(25): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 12:09:10 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:09:12 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:09:13 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:11:30 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:11:47 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:11:51 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:11:56 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:22:49 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:22:50 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:24:01 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:24:01 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:25:19 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\login\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#3 C:\xampp\htdocs\login\app\Controllers\Product.php(31): view('product_view', Array)
+#4 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-15 12:30:44 --> Call to undefined method App\Models\Product_model::pencarian
+#0 C:\xampp\htdocs\login\app\Controllers\Product.php(17): CodeIgniter\Model->__call('pencarian', Array)
+#1 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#2 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-15 12:36:52 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(26): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 12:40:40 --> Undefined index: category_name
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(26): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-15 12:57:19 --> Trying to get property 'category_name' of non-object
+#0 C:\xampp\htdocs\login\app\Views\product_view.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\login\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\login\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\login\system\Common.php(1089): CodeIgniter\View\View->render('product_view', Array, true)
+#4 C:\xampp\htdocs\login\app\Controllers\Product.php(26): view('product_view', Array)
+#5 C:\xampp\htdocs\login\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\login\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\login\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\login\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\login\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
